@@ -1,8 +1,9 @@
-Hello world literate project
-============================
+FOO
+===
 
 
 Build
------
+=====
 
-  mvn clean install
+
+    mvn clean install
